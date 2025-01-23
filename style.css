@@ -910,7 +910,7 @@
   background-size: cover;
  }
  #Shot2{
-  height: 25%;
+  height: 30%;
   width: 100%;
   /* background-color: antiquewhite; */
   padding: 4vw 6.7vw;
@@ -969,7 +969,7 @@
   height: 100%;
   width: 100%;
   padding: 0 0vh;
-  padding-right: 1.1vh;
+  padding-right: 1.2vh;
 }
 #up{
   height: 40%;
@@ -997,8 +997,8 @@
   
 }
 #Shot3{
-  height: 25%;
-  margin-top: 15vw;
+  height: fit-content;
+  margin-top: 35vw;
 }
 #Shot3 img{
   height: 100%;
