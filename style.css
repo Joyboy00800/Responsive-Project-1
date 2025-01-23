@@ -956,7 +956,7 @@
   justify-content: space-between;
 }
 #galary1-part1{
-  height: fit-content;
+  height: 50%;
   width: 100%;
 }
 #galary1-part1 img{
